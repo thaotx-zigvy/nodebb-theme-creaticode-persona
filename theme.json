@@ -1,7 +1,7 @@
 {
-    "id": "nodebb-theme-persona",
-    "name": "Persona",
-    "description": "The default theme for NodeBB. Uses a standard approach to forum design.",
-    "url": "https://github.com/psychobunny/nodebb-theme-persona",
+    "id": "nodebb-theme-creaticode-persona",
+    "name": "CreatiCode Persona",
+    "description": "CreatiCode version of Persona theme for NodeBB",
+    "url": "https://github.com/thaotx-zigvy/nodebb-theme-creaticode-persona",
     "screenshot": "screenshot.png"
 }

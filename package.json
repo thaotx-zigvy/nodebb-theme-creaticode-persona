@@ -1,14 +1,14 @@
 {
-  "name": "nodebb-theme-persona",
-  "version": "11.3.11",
+  "name": "nodebb-theme-creaticode-persona",
+  "version": "0.1.1",
   "nbbpm": {
     "compatibility": "^1.18.0"
   },
-  "description": "Persona theme for NodeBB",
+  "description": "CreatiCode version of Persona theme for NodeBB",
   "main": "library.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NodeBB/nodebb-theme-persona"
+    "url": "https://github.com/thaotx-zigvy/nodebb-theme-creaticode-persona"
   },
   "scripts": {
     "lint": "eslint ."
