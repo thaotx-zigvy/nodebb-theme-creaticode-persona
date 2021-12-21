@@ -155,7 +155,7 @@
 				<ul id="logged-out-menu" class="nav navbar-nav navbar-right">
 					<!-- IF allowRegistration -->
 					<li>
-						<a href="{relative_path}/register">
+						<a href="{meteor_path}/login?type=signup">
 							<i class="fa fa-pencil fa-fw hidden-sm hidden-md hidden-lg"></i>
 							<span>[[global:register]]</span>
 						</a>
