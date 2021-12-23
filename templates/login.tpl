@@ -55,7 +55,7 @@
 							<span>[[login:dont_have_account]] <a href="{config.meteor_path}/login?type=signup">[[register:register]]</a></span>
 							<!-- ENDIF allowRegistration -->
 							<!-- IF allowPasswordReset -->
-							&nbsp; <a id="reset-link" <a href="{config.meteor_path}/login?type=forgot_password">[[login:forgot_password]]</a>
+							&nbsp; <a id="reset-link" <a href="{config.relative_path}/reset">[[login:forgot_password]]</a>
 							<!-- ENDIF allowPasswordReset -->
 						</div>
 					</div>
